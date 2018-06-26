@@ -1,0 +1,42 @@
+#addPlayer {
+    margin-top: 20px;
+}
+
+#gameSection {
+    margin-top: 20px;
+}
+
+#playerOne {
+    border: 1px solid #343a40;
+    height: 300px;
+}
+
+#playerTwo {
+    border: 1px solid #343a40;
+    height: 300px;
+}
+
+#results {
+    border: 1px solid #343a40;
+    height: 300px;
+}
+
+#placeholderOne {
+    margin-top: 60px;
+}
+
+#placeholderTwo {
+    margin-top: 60px;
+}
+
+#liveChat {
+    height: 500px;
+    max-height: 500px;
+    overflow-y: scroll;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #343a40;
+
+}
+
+
